@@ -1,0 +1,7 @@
+id=ScreenCamSystemizer
+name=ScreenCam Screen recorder systemizer
+version=Beta 0.1
+versionCode=1
+author=vijai Chander
+description=Magisk module to install screencam as system app to allow internal audio recording using rsubmix audio source
+minMagisk=1500
