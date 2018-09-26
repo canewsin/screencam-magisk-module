@@ -1,3 +1,4 @@
 *.bat
 *.apk
 Releases/
+temp/
