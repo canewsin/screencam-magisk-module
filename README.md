@@ -43,10 +43,10 @@ Please write to me at <a href="mailto:screencam@orpheusdroid.com">screencam@orph
 ## Authors
 
 ### App
-* **Vijai Chander** - *Initial work* - [vijai](https://gitlab.com/screenrecorder)
+* **Vijai Chander** - *Initial work* - [vijai](https://gitlab.com/vijai/screenrecorder)
 
 ### Magisk Module
-* **Vijai Chander** - *Initial work* - [vijai](https://gitlab.com/screencam-magisk-module)
+* **Vijai Chander** - *Initial work* - [vijai](https://gitlab.com/vijai/screencam-magisk-module)
 
 ## License
 
