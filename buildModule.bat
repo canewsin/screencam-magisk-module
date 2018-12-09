@@ -18,7 +18,7 @@ if [%aliasPass%] == [] set aliasPass=%keyPass%
 echo.
 echo Zipping module....
 echo.
-7z.exe a -tzip temp\%file%.zip * -mx0 "-xr!.*" "-xr!Releases" "-xr!temp" "-x!*.bat" "-x!*.zip" "-x!system\priv-app\ScreenCam\PLACEHOLDER" 1> nul || goto :error
+7z.exe a -tzip temp\%file%.zip * "-xr!.*" "-xr!Releases" "-xr!temp" "-x!*.bat" "-x!*.zip" "-x!system\priv-app\ScreenCam\PLACEHOLDER" 1> nul || goto :error
 
 echo.
 echo Signing zip
