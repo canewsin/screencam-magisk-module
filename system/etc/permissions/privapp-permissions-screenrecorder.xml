@@ -1,5 +1,6 @@
 <permissions>
     <privapp-permissions package="com.orpheusdroid.screenrecorder">
         <permission name="android.permission.CAPTURE_AUDIO_OUTPUT" />
+        <permission name="android.permission.DUMP" />
     </privapp-permissions>
 </permissions>
