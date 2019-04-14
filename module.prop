@@ -1,7 +1,6 @@
 id=ScreenCamSystemizer
 name=ScreenCam Screen recorder systemizer
-version=3
-versionCode=3
+version=v4
+versionCode=4
 author=vijai Chander
 description=Magisk module to install screencam as system app to allow internal audio recording using rsubmix audio source
-minMagisk=1500
